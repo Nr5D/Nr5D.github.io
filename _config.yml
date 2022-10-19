@@ -2,4 +2,4 @@ title: E24
 # theme: jekyll-theme-minimal
 remote_theme: benbalter/retlab
 github:
-  is_project_page: false
+  is_project_page: true
