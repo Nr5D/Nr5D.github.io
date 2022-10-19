@@ -1,4 +1,5 @@
-title: A Test Site
-theme: jekyll-theme-minimal
+title: E24
+# theme: jekyll-theme-minimal
+remote_theme: benbalter/retlab
 github:
   is_project_page: false
