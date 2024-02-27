@@ -1,5 +1,5 @@
 title: E24
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 # remote_theme: benbalter/retlab
 github:
   is_project_page: true
