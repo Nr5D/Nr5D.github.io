@@ -12,7 +12,7 @@ title                    : "Abdul Aziz Nurussadad / E24.biz"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://nr5d.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://nr5d.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Nr5D/Nr5D.github.io"
 
